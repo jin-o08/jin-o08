@@ -2,8 +2,6 @@
 
 Bem‑vindo(a) ao perfil do Jin Yuji 👋
 
-🐍 Cobrinha das contribuições
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jin-o08/jin-o08/output/github-contribution-grid-snake.svg" alt="cobrinha de contribuições"/>
 </p>
