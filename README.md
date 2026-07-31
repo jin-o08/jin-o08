@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Bem‑vindo(a) ao perfil do Jin Yuji 👋
 
 <!--<p align="center">
