@@ -19,7 +19,7 @@ Bem‑vindo(a) ao perfil do Jin Yuji 👋
 <div>
 <p align="left">
 <p>Este é um exemplo de parágrafo no corpo da página.</p>
-  <img src="imagem.jpg" alt="Descrição da Imagem">
+  <!-- <img src="imagem.jpg" alt="Descrição da Imagem"> -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
