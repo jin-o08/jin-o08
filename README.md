@@ -1,9 +1,8 @@
 Bem‑vindo(a) ao perfil do Jin Yuji 👋
 
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/jin-o08/jin-o08/output/github-contribution-grid-snake.svg" alt="cobrinha de contribuições"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jin-o08/Jin-o08/main/github-contribution-grid-snake.svg" alt="cobrinha de contribuições"/>
 </p>
-</div>-->
 
 👨‍💻 Sobre mim
 
