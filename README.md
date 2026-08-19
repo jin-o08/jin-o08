@@ -8,8 +8,7 @@ Bem‑vindo(a) ao perfil do Jin Yuji 👋
 
 - 🎓 Estudante de TI em Florianópolis, SC
 - 🧩 TEA nível 1 · aprendendo no meu ritmo
-- 💻 Python, C/C++
-- 🎯 Foco: freela em HTML/CSS/JS/Python e vida independente
+- 🎯 Foco: freela em HTML/CSS/JS/Python 🐍
 
 🛠️ Tecnologias & Ferramentas
 
